@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "21",
+      "avatar": "/img/avatars/thumb-1.jpg",
+      "userName": "Carolyn Perkins",
+      "email": "carolyn.p@elstar.com",
+      "authority": [
+        "admin",
+        "user"
+      ],
+      "password": "123Qwe",
+      "accountUserName": "admin"
+    },
+    {
+      "id": "6a771336-8c70-4bba-ba48-fd003e177770",
+      "avatar": "/img/avatars/thumb-1.jpg",
+      "userName": "eduardoz",
+      "email": "eduardoz@gmail.com",
+      "authority": [
+        "admin",
+        "user"
+      ],
+      "password": "1234",
+      "accountUserName": "eduardoz"
+    }
+  ]
+}
