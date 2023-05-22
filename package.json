@@ -1,12 +1,18 @@
 {
   "name": "api_elstar",
   "version": "1.0.0",
-  "description": "",
+  "description": "basic api en nodejs para elstar template.",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon src/index.js",
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "node",
+    "api",
+    "elstar"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
